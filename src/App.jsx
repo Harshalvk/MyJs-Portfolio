@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Harshal Khobragade",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Full Stack Developer & Student",
+  email: "harshalvkhobragade@gmail.com",
+  gitHub: "Harshalvk",
+  instagram: "",
+  linkedIn: "harshalvk",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "Harshalvk_",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";

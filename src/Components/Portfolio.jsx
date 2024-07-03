@@ -31,16 +31,14 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Horizon Heaven",
+    description: "Full-Stack Realestate Marketplace",
+    url: "https://github.com/Harshalvk/HorizonHeaven",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Twitter Clone",
+    description: "Full-Stack Twitter Clone Project",
+    url: "https://github.com/Harshalvk/twitter-clone",
   },
   {
     title: "My Resume Site",
